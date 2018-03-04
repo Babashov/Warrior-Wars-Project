@@ -1,0 +1,7 @@
+C:\Users\Babashov\Desktop\C#_Learning\Projects\Warrior Wars\Warrior Wars\bin\Debug\Warrior Wars.exe.config
+C:\Users\Babashov\Desktop\C#_Learning\Projects\Warrior Wars\Warrior Wars\bin\Debug\Warrior Wars.exe
+C:\Users\Babashov\Desktop\C#_Learning\Projects\Warrior Wars\Warrior Wars\bin\Debug\Warrior Wars.pdb
+C:\Users\Babashov\Desktop\C#_Learning\Projects\Warrior Wars\Warrior Wars\obj\Debug\Warrior Wars.csprojResolveAssemblyReference.cache
+C:\Users\Babashov\Desktop\C#_Learning\Projects\Warrior Wars\Warrior Wars\obj\Debug\Warrior Wars.csproj.CoreCompileInputs.cache
+C:\Users\Babashov\Desktop\C#_Learning\Projects\Warrior Wars\Warrior Wars\obj\Debug\Warrior Wars.exe
+C:\Users\Babashov\Desktop\C#_Learning\Projects\Warrior Wars\Warrior Wars\obj\Debug\Warrior Wars.pdb
